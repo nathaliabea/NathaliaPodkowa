@@ -12,8 +12,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-dotcom&layout=compact&theme=radical)
 <div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathaliabea-dotcom/NathaliaPodkowa-dotcom/output/github-contribuition-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathaliabea-dotcom/NathaliaPodkowa-dotcom/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathaliabea-dotcom/nathaliabea-dotcom/output/github-contribuition-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathaliabea-dotcom/nathaliabea-dotcom/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
 
