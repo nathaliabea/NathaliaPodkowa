@@ -5,15 +5,15 @@
 - 🔭 Hoje estou apenas estudando
 - 🌱 Estudante de Engenharia de Software na Unicesumar
 <div>
-<a href="https://github.com/NathaliaPodkowa-dotcom"
+<a href="https://github.com/nathaliabea-dotcom"
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathaliaPodkowa-dotcom&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliabea-dotcom&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaPodkowa-dotcom&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-dotcom&layout=compact&theme=radical)
 <div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathaliaPodkowa-dotcom/NathaliaPodkowa-dotcom/output/github-contribuition-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathaliaPodkowa-dotcom/NathaliaPodkowa-dotcom/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathaliabea-dotcom/NathaliaPodkowa-dotcom/output/github-contribuition-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathaliabea-dotcom/NathaliaPodkowa-dotcom/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
 
